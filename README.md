@@ -1,4 +1,4 @@
-# 🚖 Ola Rides Analytics Dashboard
+#  Ola Rides Analytics Dashboard
 
 An end-to-end **Power BI analytics dashboard** built on synthetic Ola ride-hailing data, featuring an **AI-powered review trust scoring system** that classifies customer reviews as Genuine, Suspicious, or Spam using a hybrid LLM + rule-based approach.
 
@@ -6,7 +6,7 @@ An end-to-end **Power BI analytics dashboard** built on synthetic Ola ride-haili
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 | Page | What it shows |
 |------|--------------|
@@ -18,7 +18,7 @@ An end-to-end **Power BI analytics dashboard** built on synthetic Ola ride-haili
 
 ---
 
-## 🤖 AI Feature: Review Trust Scoring
+## AI Feature: Review Trust Scoring
 
 The standout feature of this project is a **hybrid AI pipeline** that scores every customer review for authenticity:
 
@@ -39,7 +39,7 @@ This mirrors real-world production systems where LLMs handle nuanced cases and r
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -52,7 +52,7 @@ This mirrors real-world production systems where LLMs handle nuanced cases and r
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ola_dashboard_project/
@@ -72,7 +72,7 @@ ola_dashboard_project/
 
 ---
 
-## 🗃️ Dataset Overview
+##  Dataset Overview
 
 All data is **synthetically generated** using Python's Faker library (Indian locale) to simulate realistic Ola ride patterns:
 
@@ -83,7 +83,7 @@ All data is **synthetically generated** using Python's Faker library (Indian loc
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 ### 1. Generate the dataset
 ```bash
@@ -109,7 +109,7 @@ Open `ola_dashboard.pbix` in Power BI Desktop and refresh the data source paths 
 
 ---
 
-## 💡 Key Insights from the Dashboard
+##  Key Insights from the Dashboard
 
 - **Hyderabad** leads in total bookings among all 6 cities
 - **Prime SUV** generates the highest revenue per ride despite lower booking volume
@@ -119,7 +119,7 @@ Open `ola_dashboard.pbix` in Power BI Desktop and refresh the data source paths 
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Priyanshi** — B.Tech Computer Science (Blockchain), Presidency University Bangalore  
 GitHub: [@priyanshihihi](https://github.com/priyanshihihi)
